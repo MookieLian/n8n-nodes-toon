@@ -8,12 +8,12 @@
         "n8n-community-node-package"
     ],
     "author": {
-        "name": "mookielian",
+        "name": "MookieLian",
         "email": "mookielianhd@gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/mookielian/n8n-nodes-toon.git"
+        "url": "https://github.com/MookieLian/n8n-nodes-toon.git"
     },
     "scripts": {
         "build": "n8n-node build",
